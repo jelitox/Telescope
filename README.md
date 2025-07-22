@@ -1,5 +1,9 @@
 <img src="https://d3vv6lp55qjaqc.cloudfront.net/items/2B3C1z2V2y421p2I0P42/vulcan-logo-noborder.png" width="200">
 
+# The repository is now archived.
+
+Time has passed and the main team members have moved on to other projects. We're archiving the repository to make it clear that it will not receive further updates or fixes. You can find the evolution of Vulcan in Sacha and Eric's project [Devographics](https://github.com/Devographics/Monorepo)
+
 [![Backers on Open Collective](https://opencollective.com/vulcan/backers/badge.svg)](#backers)
 
  [![Sponsors on Open Collective](https://opencollective.com/vulcan/sponsors/badge.svg)](#sponsors) 
